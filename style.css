@@ -1,0 +1,38 @@
+.superDiv {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+}
+
+.color-input {
+      height: 2.5em;
+      width: 11em;
+      border-radius: .5em;
+      font-size: 2em;
+      font-family: cascadia code;
+      padding: 1em;
+      text-align: center;
+}
+
+.color-div {
+      height: 15em;
+      width: 30em;
+      border-radius: 1em;
+      margin: 1em 0 1em 0;
+      padding: 1em;
+      border: 1px solid black;
+      background-color: rgb(103, 114, 212);
+      text-align: center;
+      font-size: 1.5em;
+      font-family: cascadia code;
+}
+
+.writing-input {
+      height: 2.5em;
+      width: 12em;
+      border-radius: .5em;
+      font-size: 2em;
+      font-family: cascadia code;
+      padding: 1em;
+      text-align: center;
+}
